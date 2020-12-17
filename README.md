@@ -30,7 +30,7 @@ option to make in-app purchases for items that can give them a competitive edge 
 
 ###### Age Demographics, which shows the Percentage and Count of players separated by Age Group.
 
-###### Purchasing Analysis by Gender, which shows each of the following broken up by age:
+###### Purchasing Analysis by Gender, which shows each of the following broken up by Age Group:
 
 - Purchase Count
 - Average Purchase Price
