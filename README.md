@@ -21,7 +21,7 @@ option to make in-app purchases for items that can give them a competitive edge 
 
 ###### Gender Demographics, which shows the Percentage and Count of players separated by Gender
 
-###### Purchasing Analysis by Gender, which shows each of the following broken up by gender:
+###### Purchasing Analysis by Gender, which shows each of the following broken up by Gender:
 
 - Purchase Count
 - Average Purchase Price
